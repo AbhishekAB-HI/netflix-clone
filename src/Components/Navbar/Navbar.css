@@ -1,0 +1,55 @@
+
+
+.logo{
+    position: fixed;
+    left:20px;
+    width: 100px;
+ 
+}
+.avatar{
+    position: fixed;
+    right: 20px;
+    width: 30px;
+   
+}
+
+.signUp{
+    position: fixed;
+    right: 100px;
+    width: 80px;
+    height: 40px;
+    background-color: rgb(186, 18, 18);
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+   
+}
+.signUp:hover{
+   background-color: rgb(128, 20, 20); 
+   color: black;
+}
+
+.signIn{
+    position: fixed;
+    right: 200px;
+    width: 80px; 
+    height: 40px;
+    cursor: pointer;
+    color: white;
+}
+
+
+
+
+
+.navbar{
+    position: fixed;
+    top:0;
+    width: 100%;
+    height:30px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
